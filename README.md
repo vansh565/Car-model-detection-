@@ -56,7 +56,7 @@ Color labels are heuristic estimates, and video tracking depends on the configur
 Vehicle detection, segmentation masks, and color labels:
 
 ![Vehicle detection example with segmentation masks and color labels](docs/images/Screenshot%202026-10-19%20134844.png)
-
+D:\MULTICAR\docs\images\annotated.mp4
 ### Direct Feed Showcase
 
 <div align="center">
