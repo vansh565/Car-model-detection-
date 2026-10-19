@@ -63,7 +63,7 @@ Vehicle detection, segmentation masks, and color labels:
   <table width="100%">
     <tr><td align="center"><strong>▣ &nbsp; annotated2.mp4 &nbsp;⌄</strong></td></tr>
     <tr><td align="center" bgcolor="#0d1117">
-      <video src="docs/images/annotated.mp4" controls playsinline width="100%" style="display:block; max-width:960px; width:100%; aspect-ratio:16 / 9; height:auto; border-radius:8px; margin:0 auto; background:#000;">
+      <video src="docs/images/annotated2.mp4" controls playsinline width="100%" style="display:block; max-width:960px; width:100%; aspect-ratio:16 / 9; height:auto; border-radius:8px; margin:0 auto; background:#000;">
         Your Markdown viewer does not support embedded video. <a href="docs/images/annotated2.mp4">Open or download the MP4</a>.
       </video>
     </td></tr>
